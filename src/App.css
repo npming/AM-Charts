@@ -1,0 +1,41 @@
+.App {
+  text-align: center;
+}
+.header-wrapper {
+  text-align: center;
+}
+.header-wrapper ul {
+  padding: 20px;
+  width: 100%;
+  display: inline-block;
+  background: #2d2d2d;
+  margin-top: 0;
+  margin-bottom: 20px;
+}
+.header-wrapper ul li {
+  display: inline-block;
+  color: #fff;
+  margin-right: 28px;
+}
+.header-wrapper ul li a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 20px;
+}
+section ul li {
+  display: inline-block;
+  margin-right: 20px;
+}
+section ul {
+  text-align: center;
+}
+.chart-body {
+  position: relative;
+}
+.spinner-border {
+  position: absolute;
+  /* text-align: center; */
+  /* margin: 0 auto; */
+  left: 50%;
+  /* transform: translate(-50%, -50%) */
+}
