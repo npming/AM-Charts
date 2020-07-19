@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+In this project COVID-19 Stats are shown using amcharts and react hooks
 
 ## Available Scripts
 
